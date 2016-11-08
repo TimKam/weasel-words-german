@@ -1,0 +1,21 @@
+{
+  "name": "weasel-words-german",
+  "version": "0.1",
+  "description": "detect German weasel words",
+  "main": "weasel.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimKam/weasel-words-german/"
+  },
+  "keywords": [
+    "German",
+    "writing",
+    "prose",
+    "words"
+  ],
+  "author": "Timotheus Kampik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimKam/weasel-words-german/issues"
+  }
+}
