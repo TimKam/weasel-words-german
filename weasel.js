@@ -2,8 +2,8 @@ var weasels = [
   'äußerst',
   'diverse',
   'einige',
-  'ernorm',
-  'exellent',
+  'enorm',
+  'exzellent',
   'extrem',
   'ganz schön',
   'gewöhnlich',
@@ -12,9 +12,7 @@ var weasels = [
   'interessanterweise',
   'komplett',
   'meistens',
-  'offentsichtlich',
-  'relatively',
-  'remarkably',
+  'offensichtlich',
   'riesig',
   'sehr',
   'selbstverständlich',
@@ -22,13 +20,13 @@ var weasels = [
   'substantiell',
   'überaus',
   'überraschend',
-  'überraschendderweise',
+  'überraschenderweise',
   'viel',
   'viele',
   'weitgehend',
   'wenige',
   'winzig',
-  'zienlich'
+  'ziemlich'
 ];
 
 // Allow "too many" and "too few"
